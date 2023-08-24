@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"F:/github/PONG/pong/Content/Level0.umap",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBar.uasset",
+				"F:/github/PONG/pong/Content/MESHES/Box_Brush3_StaticMesh.uasset",
+				"F:/github/PONG/pong/Content/MESHES/Box_Brush4_StaticMesh.uasset",
+				"F:/github/PONG/pong/Content/MESHES/Box_Brush_StaticMesh.uasset",
+				"F:/github/PONG/pong/Content/MESHES/Box_Brush2_StaticMesh.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset"
+			]
+		}
+	]
+}
