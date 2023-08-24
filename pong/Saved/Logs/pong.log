@@ -3832,3 +3832,236 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.08.24-23.37.51:371][184]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
 [2023.08.24-23.38.27:209][683]BlueprintLog: New page: Compile BP_MyBall
 [2023.08.24-23.38.27:234][683]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.08.24-23.39.20:870][358]LogDerivedDataCache: C:/Users/Antony/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:12.049 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 6522 files in 8745 folders with total size 2307 MiB.
+[2023.08.24-23.40.33:074][963]BlueprintLog: New page: Compile BP_MyBall
+[2023.08.24-23.40.33:099][963]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2023.08.24-23.40.34:477][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.24-23.40.34:543][ 82]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_MyBall" FILE="F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset" SILENT=true
+[2023.08.24-23.40.34:549][ 82]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/BP_MyBall
+[2023.08.24-23.40.34:549][ 82]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/BP_MyBallA51B2E744F1505BC629036A00ED77F54.tmp' to 'F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset'
+[2023.08.24-23.40.34:554][ 82]LogFileHelpers: InternalPromptForCheckoutAndSave took 77 ms (total: 1.49 sec)
+[2023.08.24-23.40.34:559][ 82]AssetCheck: New page: Asset Save: BP_MyBall
+[2023.08.24-23.40.34:559][ 82]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall
+[2023.08.24-23.40.35:764][196]LogEditorViewport: Clicking Background
+[2023.08.24-23.40.40:658][641]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/BP_MyBall.BP_MyBall_C
+[2023.08.24-23.40.40:658][641]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/BP_MyBall.BP_MyBall_C
+[2023.08.24-23.40.40:659][641]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall as actor: BP_MyBall_C /Game/Level0.Level0:PersistentLevel.BP_MyBall_C_0
+[2023.08.24-23.40.40:659][641]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall as actor: BP_MyBall_C /Game/Level0.Level0:PersistentLevel.BP_MyBall_C_0
+[2023.08.24-23.40.43:893][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/BP_MyBall.BP_MyBall_C
+[2023.08.24-23.40.43:893][945]LogActorFactory: Actor Factory attempting to spawn BlueprintGeneratedClass /Game/BLUEPRINTS/BP_MyBall.BP_MyBall_C
+[2023.08.24-23.40.43:895][945]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall as actor: BP_MyBall_C /Game/Level0.Level0:PersistentLevel.BP_MyBall_C_1
+[2023.08.24-23.40.43:896][945]LogActorFactory: Actor Factory spawned Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall as actor: BP_MyBall_C /Game/Level0.Level0:PersistentLevel.BP_MyBall_C_1
+[2023.08.24-23.40.43:907][945]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:183][776]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.24-23.42.41:191][776]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.24-23.42.41:191][776]PIE: New page: PIE session: Level0 (24 de ago de 2023 17:42:41)
+[2023.08.24-23.42.41:213][776]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level0
+[2023.08.24-23.42.41:215][776]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002178s)
+[2023.08.24-23.42.41:215][776]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level0.Level0 to /Game/UEDPIE_0_Level0.Level0 (0.002222s)
+[2023.08.24-23.42.41:215][776]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.24-23.42.41:216][776]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.24-23.42.41:216][776]LogAIModule: Creating AISystem for world Level0
+[2023.08.24-23.42.41:216][776]LogPlayLevel: PIE: World Init took: (0.000708s)
+[2023.08.24-23.42.41:237][776]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2023.08.24-23.42.41:242][776]LogAudio: Display: Creating Audio Device:                 Id: 21, Scope: Unique, Realtime: True
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.24-23.42.41:242][776]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.24-23.42.41:242][776]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.24-23.42.41:242][776]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.24-23.42.41:242][776]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.24-23.42.41:242][776]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.24-23.42.41:244][776]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.24-23.42.41:266][776]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2023.08.24-23.42.41:266][776]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.24-23.42.41:266][776]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.24-23.42.41:266][776]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.24-23.42.41:267][776]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=21
+[2023.08.24-23.42.41:267][776]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=21
+[2023.08.24-23.42.41:268][776]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=21
+[2023.08.24-23.42.41:268][776]LogInit: FAudioDevice initialized with ID 21.
+[2023.08.24-23.42.41:268][776]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=21
+[2023.08.24-23.42.41:268][776]LogAudio: Display: Audio Device (ID: 21) registered with world 'Level0'.
+[2023.08.24-23.42.41:268][776]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 21
+[2023.08.24-23.42.41:270][776]LogLoad: Game class is 'GameModeBase'
+[2023.08.24-23.42.41:271][776]LogWorld: Bringing World /Game/UEDPIE_0_Level0.Level0 up for play (max tick rate 0) at 2023.08.24-20.42.41
+[2023.08.24-23.42.41:271][776]LogWorld: Bringing up level for play took: 0.000545
+[2023.08.24-23.42.41:272][776]LogOnline: OSS: Created online subsystem instance for: :Context_37
+[2023.08.24-23.42.41:273][776]PIE: Server logged in
+[2023.08.24-23.42.41:273][776]PIE: Play in editor total start time 0,085 seconds.
+[2023.08.24-23.42.41:285][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:286][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:286][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:286][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:286][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:287][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:287][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:287][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:287][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:288][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:288][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.41:288][776]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:304][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-23.42.45:304][243]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level0
+[2023.08.24-23.42.45:304][243]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2023.08.24-23.42.45:304][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-23.42.45:307][243]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.24-23.42.45:310][243]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-23.42.45:324][243]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.24-23.42.45:324][243]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 21
+[2023.08.24-23.42.45:324][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.24-23.42.45:325][243]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=21
+[2023.08.24-23.42.45:329][243]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-23.42.45:330][243]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.08.24-23.42.45:341][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:341][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:341][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:342][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:342][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:342][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:342][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:343][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:343][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:343][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:343][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:344][243]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.42.45:368][245]LogPlayLevel: Display: Destroying online subsystem :Context_37
+[2023.08.24-23.43.17:339][107]LogSlate: Took 0.002701 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.08.24-23.45.13:177][263]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.08.24-23.45.13:180][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level0" FILE="F:/github/PONG/pong/Saved/Autosaves/Game/Level0_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2023.08.24-23.45.13:192][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Level0_Auto3
+[2023.08.24-23.45.13:192][263]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/Level0_Auto3C570159A4332D7FD4C65BDAD221857A1.tmp' to 'F:/github/PONG/pong/Saved/Autosaves/Game/Level0_Auto3.umap'
+[2023.08.24-23.45.13:202][263]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Level0' took 0.040
+[2023.08.24-23.45.13:202][263]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2023.08.24-23.45.13:202][263]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BLUEPRINTS/BP_MyBall] ([2] browsable assets)...
+[2023.08.24-23.45.13:218][263]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall]
+[2023.08.24-23.45.13:218][263]OBJ SavePackage: Finished generating thumbnails for package [/Game/BLUEPRINTS/BP_MyBall]
+[2023.08.24-23.45.13:218][263]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_MyBall" FILE="F:/github/PONG/pong/Saved/Autosaves/Game/BLUEPRINTS/BP_MyBall_Auto3.uasset" SILENT=false AUTOSAVING=true
+[2023.08.24-23.45.13:225][263]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BLUEPRINTS/BP_MyBall_Auto3
+[2023.08.24-23.45.13:225][263]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/BP_MyBall_Auto37C95DF9045606F3A60ABAEAA2660BFF8.tmp' to 'F:/github/PONG/pong/Saved/Autosaves/Game/BLUEPRINTS/BP_MyBall_Auto3.uasset'
+[2023.08.24-23.45.13:225][263]LogFileHelpers: Auto-saving content packages took 0.023
+[2023.08.24-23.46.05:079][851]BlueprintLog: New page: Compile BP_MyBall
+[2023.08.24-23.46.05:107][851]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2023.08.24-23.46.05:132][851]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.48.49:784][843]BlueprintLog: New page: Compile BP_MyBall
+[2023.08.24-23.48.49:813][843]LogUObjectHash: Compacting FUObjectHashTables data took   1.01ms
+[2023.08.24-23.48.49:837][843]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.48.50:733][923]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.24-23.48.50:791][923]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_MyBall" FILE="F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset" SILENT=true
+[2023.08.24-23.48.50:797][923]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/BP_MyBall
+[2023.08.24-23.48.50:798][923]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/BP_MyBallD2B9FE5A469A162CB63D8888A98283B0.tmp' to 'F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset'
+[2023.08.24-23.48.50:802][923]LogFileHelpers: InternalPromptForCheckoutAndSave took 69 ms (total: 1.56 sec)
+[2023.08.24-23.48.50:807][923]AssetCheck: New page: Asset Save: BP_MyBall
+[2023.08.24-23.48.50:807][923]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall
+[2023.08.24-23.49.21:263][854]BlueprintLog: New page: Compile BP_MyBall
+[2023.08.24-23.49.21:291][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.74ms
+[2023.08.24-23.49.21:312][854]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.27:606][403]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.24-23.49.27:656][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_MyBall" FILE="F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset" SILENT=true
+[2023.08.24-23.49.27:663][403]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/BP_MyBall
+[2023.08.24-23.49.27:663][403]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/BP_MyBallA9971A744F75E7D63A5B81954D5ACDBD.tmp' to 'F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset'
+[2023.08.24-23.49.27:667][403]LogFileHelpers: InternalPromptForCheckoutAndSave took 61 ms (total: 1.63 sec)
+[2023.08.24-23.49.27:672][403]AssetCheck: New page: Asset Save: BP_MyBall
+[2023.08.24-23.49.27:672][403]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall
+[2023.08.24-23.49.29:634][519]LogEditorViewport: Clicking Background
+[2023.08.24-23.49.32:264][764]LogDebuggerCommands: Repeating last play command: Selected Viewport
+[2023.08.24-23.49.32:269][764]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.08.24-23.49.32:269][764]PIE: New page: PIE session: Level0 (24 de ago de 2023 17:49:32)
+[2023.08.24-23.49.32:269][764]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Level0
+[2023.08.24-23.49.32:272][764]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002221s)
+[2023.08.24-23.49.32:272][764]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Level0.Level0 to /Game/UEDPIE_0_Level0.Level0 (0.002247s)
+[2023.08.24-23.49.32:272][764]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2023.08.24-23.49.32:272][764]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.08.24-23.49.32:272][764]LogAIModule: Creating AISystem for world Level0
+[2023.08.24-23.49.32:272][764]LogPlayLevel: PIE: World Init took: (0.000631s)
+[2023.08.24-23.49.32:285][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2023.08.24-23.49.32:288][764]LogAudio: Display: Creating Audio Device:                 Id: 22, Scope: Unique, Realtime: True
+[2023.08.24-23.49.32:288][764]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.08.24-23.49.32:289][764]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2023.08.24-23.49.32:289][764]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.08.24-23.49.32:289][764]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.08.24-23.49.32:289][764]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.08.24-23.49.32:289][764]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.08.24-23.49.32:291][764]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.08.24-23.49.32:312][764]LogAudioMixer: Display: Using Audio Hardware Device Alto-falantes (Realtek(R) Audio)
+[2023.08.24-23.49.32:313][764]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.08.24-23.49.32:313][764]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.08.24-23.49.32:313][764]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.08.24-23.49.32:313][764]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=22
+[2023.08.24-23.49.32:313][764]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=22
+[2023.08.24-23.49.32:314][764]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=22
+[2023.08.24-23.49.32:314][764]LogInit: FAudioDevice initialized with ID 22.
+[2023.08.24-23.49.32:314][764]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=22
+[2023.08.24-23.49.32:314][764]LogAudio: Display: Audio Device (ID: 22) registered with world 'Level0'.
+[2023.08.24-23.49.32:314][764]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 22
+[2023.08.24-23.49.32:317][764]LogLoad: Game class is 'GameModeBase'
+[2023.08.24-23.49.32:318][764]LogWorld: Bringing World /Game/UEDPIE_0_Level0.Level0 up for play (max tick rate 0) at 2023.08.24-20.49.32
+[2023.08.24-23.49.32:318][764]LogWorld: Bringing up level for play took: 0.000562
+[2023.08.24-23.49.32:319][764]LogOnline: OSS: Created online subsystem instance for: :Context_38
+[2023.08.24-23.49.32:320][764]PIE: Server logged in
+[2023.08.24-23.49.32:320][764]PIE: Play in editor total start time 0,051 seconds.
+[2023.08.24-23.49.32:337][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:337][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:337][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:338][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:338][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:338][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:339][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:339][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:339][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:340][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:340][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.32:340][764]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:291][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-23.49.37:291][341]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Level0
+[2023.08.24-23.49.37:291][341]LogWorld: UWorld::CleanupWorld for Level0, bSessionEnded=true, bCleanupResources=true
+[2023.08.24-23.49.37:291][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-23.49.37:297][341]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.08.24-23.49.37:300][341]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.08.24-23.49.37:314][341]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.08.24-23.49.37:314][341]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 22
+[2023.08.24-23.49.37:314][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.24-23.49.37:315][341]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=22
+[2023.08.24-23.49.37:318][341]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.08.24-23.49.37:320][341]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2023.08.24-23.49.37:331][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:331][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:331][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:331][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:332][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:332][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:332][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:332][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:332][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:333][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:333][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:333][341]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.49.37:343][343]LogPlayLevel: Display: Destroying online subsystem :Context_38
+[2023.08.24-23.50.26:500][121]BlueprintLog: New page: Compile BP_MyBall
+[2023.08.24-23.50.26:529][121]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2023.08.24-23.50.26:544][121]LogPackageName: Warning: DoesPackageExist called on PackageName that will always return false. Reason: Input '' was empty.
+[2023.08.24-23.50.27:733][227]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.24-23.50.27:790][227]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BLUEPRINTS/BP_MyBall" FILE="F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset" SILENT=true
+[2023.08.24-23.50.27:795][227]LogSavePackage: Moving output files for package: /Game/BLUEPRINTS/BP_MyBall
+[2023.08.24-23.50.27:796][227]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/BP_MyBall7E0ED1C74B6B31752D3342850B312641.tmp' to 'F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset'
+[2023.08.24-23.50.27:800][227]LogFileHelpers: InternalPromptForCheckoutAndSave took 67 ms (total: 1.69 sec)
+[2023.08.24-23.50.27:805][227]AssetCheck: New page: Asset Save: BP_MyBall
+[2023.08.24-23.50.27:805][227]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BLUEPRINTS/BP_MyBall.BP_MyBall
+[2023.08.24-23.50.31:890][609]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.08.24-23.50.31:943][609]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Level0" FILE="F:/github/PONG/pong/Content/Level0.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2023.08.24-23.50.31:956][609]LogUObjectHash: Compacting FUObjectHashTables data took   0.83ms
+[2023.08.24-23.50.31:969][609]LogSavePackage: Moving output files for package: /Game/Level0
+[2023.08.24-23.50.31:969][609]LogSavePackage: Moving 'F:/github/PONG/pong/Saved/Level029AD563F4CB4C2CE14C9BAB8E75D7A57.tmp' to 'F:/github/PONG/pong/Content/Level0.umap'
+[2023.08.24-23.50.31:975][609]LogFileHelpers: Saving map 'Level0' took 0.033
+[2023.08.24-23.50.31:979][609]LogFileHelpers: InternalPromptForCheckoutAndSave took 88 ms (total: 1.78 sec)
+[2023.08.24-23.50.31:983][609]AssetCheck: New page: Asset Save: Level0
+[2023.08.24-23.50.31:983][609]LogContentValidation: Display: Validating /Script/Engine.World /Game/Level0.Level0
