@@ -6,12 +6,11 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"F:/github/PONG/pong/Content/Level0.umap",
-				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBar.uasset",
-				"F:/github/PONG/pong/Content/MESHES/Box_Brush3_StaticMesh.uasset",
-				"F:/github/PONG/pong/Content/MESHES/Box_Brush4_StaticMesh.uasset",
-				"F:/github/PONG/pong/Content/MESHES/Box_Brush_StaticMesh.uasset",
-				"F:/github/PONG/pong/Content/MESHES/Box_Brush2_StaticMesh.uasset",
-				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBall.uasset"
+				"F:/github/PONG/pong/Content/Level1.umap",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyGameMode.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyGameClearUI.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyScore.uasset",
+				"F:/github/PONG/pong/Content/BLUEPRINTS/BP_MyBlock.uasset"
 			]
 		}
 	]
